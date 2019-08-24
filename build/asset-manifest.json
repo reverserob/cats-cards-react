@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cats-cards-react/static/css/main.c52e20b5.chunk.css",
+    "main.js": "/cats-cards-react/static/js/main.6d5df6a5.chunk.js",
+    "main.js.map": "/cats-cards-react/static/js/main.6d5df6a5.chunk.js.map",
+    "runtime~main.js": "/cats-cards-react/static/js/runtime~main.5298829d.js",
+    "runtime~main.js.map": "/cats-cards-react/static/js/runtime~main.5298829d.js.map",
+    "static/js/2.df0b5369.chunk.js": "/cats-cards-react/static/js/2.df0b5369.chunk.js",
+    "static/js/2.df0b5369.chunk.js.map": "/cats-cards-react/static/js/2.df0b5369.chunk.js.map",
+    "index.html": "/cats-cards-react/index.html",
+    "precache-manifest.a26b554a771c3b9853b3551feb8871fc.js": "/cats-cards-react/precache-manifest.a26b554a771c3b9853b3551feb8871fc.js",
+    "service-worker.js": "/cats-cards-react/service-worker.js",
+    "static/css/main.c52e20b5.chunk.css.map": "/cats-cards-react/static/css/main.c52e20b5.chunk.css.map",
+    "static/media/logo.svg": "/cats-cards-react/static/media/logo.5d5d9eef.svg"
+  }
+}
